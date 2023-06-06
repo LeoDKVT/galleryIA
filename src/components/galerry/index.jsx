@@ -18,22 +18,9 @@ import SamoyedDog from "../../assets/img/beautiful-white-samoyed-dog.jpg";
 import Ultraleon from "../../assets/img/ultra-leon-highly.jpg";
 import SylphineDuo from "../../assets/img/sylphine-duo.jpg";
 
-export default function Galerry() {
+export default function Gaalerry() {
   return (
-    <section className="container gallery-container my-4">
-      <h1 className="degrade text-center py-2">
-        A Magia da Inteligência Artificial em Imagens
-      </h1>
-
-      <p className="text-center text-white">
-        Estas imagens foram produzidas com a ajuda de algoritmos de inteligência
-        artificial. Através da combinação de palavras foi possível gerar
-        resultados visualmente deslumbrantes e surpreendentes. Os avanços da IA
-        é possivel criar imagens que desafiam a imaginação. Estas imagens são de
-        minha autoria, e note que com a evolução da tecnologia pode trazer
-        vantagens surpreendentes, aumentando nossa capacidade criativa e nos
-        levando além de nossas possibilidades individuais.
-      </p>
+    <section className="container gallery-container">
 
       <div className="tz-gallery">
         <div className="row">
